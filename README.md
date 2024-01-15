@@ -18,12 +18,12 @@ This project uses Poetry for package management. To set up the project, follow t
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/gfi-software-idea-generator.git
+git clone [https://github.com/yourusername/gfi-software-idea-generator.git](https://github.com/glennlugod/ideagen_crewai.git)
 ```
 
 Navigate to the project directory:
 ```
-cd gfi-software-idea-generator
+cd ideagen_crewai
 ```
 
 Install Poetry if it's not already installed: https://python-poetry.org/docs/#installation.
