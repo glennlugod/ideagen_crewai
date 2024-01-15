@@ -18,7 +18,7 @@ This project uses Poetry for package management. To set up the project, follow t
 
 Clone the repository:
 ```
-git clone [https://github.com/yourusername/gfi-software-idea-generator.git](https://github.com/glennlugod/ideagen_crewai.git)
+git clone https://github.com/glennlugod/ideagen_crewai.git
 ```
 
 Navigate to the project directory:
